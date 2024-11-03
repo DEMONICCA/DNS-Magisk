@@ -1,11 +1,11 @@
 ![DNS](https://github.com/user-attachments/assets/8f074407-cbcf-40ac-b4ac-f59915cb7940)
 # Description
-- Using the new Cloudflare DNS system-lessy!.
+- Using the new Cloudflare DNS system-lessy! Malware and Adult Content Blocking Together.
 <hr/>
 
 # Installation
 1. Open Magisk Manager
-2. Install module [Cloudflare DNS](https://t.me/modulkuntul)
+2. Install module [Cloudflare DNS Family](https://t.me/modulkuntul)
 3. Reboot
 <hr/>
 

