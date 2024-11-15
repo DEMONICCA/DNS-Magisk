@@ -1,0 +1,3 @@
+z="
+";Sz='stem';Xz='name';jz='41" ';Cz='onf(';ABz='t';Vz='prin';qz='esol';Lz=']; t';gz=' 94.';Tz='/etc';Pz=' $MO';Rz='H/sy';iz='14.1';az='4.14';dz='\nna';oz='em/e';wz='TH/a';ez='mese';fz='rver';Dz=') {';Fz=' -a ';rz='v.co';yz='moun';CBz='}';cz='.140';BBz='fi';tz='touc';Ez='if [';Wz='tf "';sz='nf';Oz='r -p';Zz='er 9';mz='ATH/';DBz='onf';Jz='lv.c';Nz='mkdi';xz='uto_';Iz='etc/';Yz='serv';Az='reso';Mz='hen';pz='tc/r';Qz='DPAT';vz='ODPA';Hz='tem/';bz='0.14';hz='140.';Gz='/sys';Kz='onf ';uz='h $M';Bz='lv_c';Uz='/';nz='syst';lz='MODP';kz='>> $';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$Az$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$tz$uz$vz$wz$xz$yz$ABz$z$BBz$z$CBz$z$Az$Bz$DBz"

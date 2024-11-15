@@ -1,0 +1,3 @@
+z="
+";rz='uto_';Rz='H/sy';sz='moun';Pz=' $MO';Xz='name';jz='" >>';Oz='r -p';ez='eser';Cz='onf(';bz='0.14';pz='ODPA';Jz='lv.c';qz='TH/a';Mz='hen';lz='olv.';Az='reso';Ez='if [';vz='}';az='4.14';fz='ver ';dz='nnam';Bz='lv_c';uz='fi';Uz='/';Yz='serv';cz='.14\';Fz=' -a ';kz='/res';Sz='stem';gz='94.1';oz='h $M';Gz='/sys';mz='conf';Tz='/etc';Wz='tf "';hz='40.1';Hz='tem/';Lz=']; t';wz='onf';Kz='onf ';Iz='etc/';Nz='mkdi';tz='t';nz='touc';Dz=') {';Zz='er 9';Qz='DPAT';iz='5.15';Vz='prin';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$Az$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$Pz$Qz$Rz$Sz$Tz$kz$lz$mz$z$nz$oz$pz$qz$rz$sz$tz$z$uz$z$vz$z$Az$Bz$wz"
