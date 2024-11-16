@@ -1,7 +1,7 @@
 id=DNS
 name=AdGuard DNS Family
-version=V1-STABLE
-versionCode=1
+version=V3-STABLE
+versionCode=3
 author=ILLUMI
 description=Using the new AdGuard DNS system - no ads! AdGuard DNS will block ads, trackers, adult content, and enable Safe Search and Safe Mode, where possible.
 support=https://trakteer.id/demonica/tip
