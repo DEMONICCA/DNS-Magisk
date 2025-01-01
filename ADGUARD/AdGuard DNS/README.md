@@ -1,17 +1,17 @@
 > ![DNS](https://github.com/user-attachments/assets/8f074407-cbcf-40ac-b4ac-f59915cb7940)
 
 > **DESCRIPTION...**    
-> Using the new Cloudflare DNS system-lessy! Malware Blocking Only.
+> Using the new adguard DNS system-lessy! AdGuard DNS will block ads and trackers.
 <hr/>
 
 > [!TIP]
 > 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [Cloudflare Malware DNS](https://t.me/modulkuntul)
+> 2. Install module [Adguard DNS](https://t.me/modulkuntul)
 > 3. Reboot
 <hr/>
 
 > [!NOTE]
-> - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
+> - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)        
 > - First remove all DNS-related modules.
 <hr/>
 
