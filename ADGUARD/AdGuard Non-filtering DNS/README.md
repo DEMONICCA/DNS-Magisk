@@ -1,12 +1,12 @@
 > ![DNS](https://github.com/user-attachments/assets/8f074407-cbcf-40ac-b4ac-f59915cb7940)
 
 > **DESCRIPTION...**    
-> Using the new adguard DNS system-lessy! AdGuard DNS will block ads and trackers.
+> Using the new adguard DNS system-lessy! AdGuard DNS will not block ads, trackers, or any other DNS requests.
 <hr/>
 
 > [!TIP]
 > 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [Adguard DNS](https://t.me/modulkuntul)
+> 2. Install module [Adguard Non-filtering DNS](https://t.me/modulkuntul)
 > 3. Reboot
 <hr/>
 
