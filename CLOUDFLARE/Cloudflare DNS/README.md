@@ -29,7 +29,7 @@
 <hr/>
 
 > [!CAUTION]
-> If the module I make causes loop boots, that is your own risk. I will not be responsible if a problem occurs. Not all ROMs are profitable, so be careful.
+> If the module I make causes BOOTLOOP, that is your own risk. I will not be responsible if a problem occurs. Not all ROMs are profitable, so be careful.
 <hr/>
 
 > [!IMPORTANT]
