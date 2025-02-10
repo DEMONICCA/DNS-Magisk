@@ -35,7 +35,7 @@
 > [!IMPORTANT]
 > If the installation is complete and reboot
 Check your DNS with.
-> TERMUX : "Su" Enter "getprop | grep dns"
+> - TERMUX : "Su" Enter "getprop | grep dns"      
 <hr/>
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
