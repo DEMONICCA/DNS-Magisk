@@ -1,18 +1,21 @@
-> ![DNS](https://github.com/user-attachments/assets/8f074407-cbcf-40ac-b4ac-f59915cb7940)
+> ![Image](https://github.com/user-attachments/assets/7a1b9891-259d-4fbc-8bbe-b56b13934909)
 
 > **DESCRIPTION...**    
-> Using the new Cloudflare DNS system-lessy!.
+> Improve your Android privacy and internet speed with automatic DNS configuration!.
 <hr/>
 
 > [!TIP]
-> 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [Cloudflare DNS](https://t.me/modulkuntul)
-> 3. Reboot
+> 1. Open Magisk Manager or KSU or APatch
+> 2. First delete the module related to DNS
+> 3. Install module [Advanced DNS optimization](https://www.effectiveratecpm.com/xu1d08g9?key=911bf90716e689ca30a9aa687533a0a4)
+> 4. Reboot
+> 5. Open TERMUX "su" ENTER "getprop | grep dns"
 <hr/>
 
 > [!NOTE]
-> - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
-> - First remove all DNS-related modules.
+> This module most likely supports Android 7.0 (Nougat) and above.
+> - For Android 10+, Private DNS mode must be turned off for this manual configuration to work.
+> - Android 12+ may have additional restrictions regarding iptables, so further testing is needed.
 <hr/>
 
 > [!WARNING]
@@ -26,9 +29,9 @@
 <hr/>
 
 > [!IMPORTANT]
-> Tested on several devices such as.     
-> Redmi Note 12 4G NFC (TOPAZ)     
-> Redmi Note 8 (GINKGO)     
+> This module changes the DNS configuration on Android using Cloudflare DNS (1.1.1.1 & 1.0.0.1) via Magisk. Make sure :
+> - The device is rooted
+> - The system supports iptables and IPv6 if you want full compatibility.
 <hr/>
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
