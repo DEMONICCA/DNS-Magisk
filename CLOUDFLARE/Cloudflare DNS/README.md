@@ -33,8 +33,7 @@
 <hr/>
 
 > [!IMPORTANT]
-> If the installation is complete and reboot
-Check your DNS with.
+> If the installation is complete and rebootCheck your DNS with.
 > - TERMUX : "Su" Enter "getprop | grep dns"      
 <hr/>
 
