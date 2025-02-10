@@ -8,30 +8,34 @@
 > 1. Open Magisk Manager or KSU or APatch
 > 2. First delete the module related to DNS
 > 3. Install module [Advanced DNS optimization](https://www.effectiveratecpm.com/xu1d08g9?key=911bf90716e689ca30a9aa687533a0a4)
-> 4. Reboot
-> 5. Open TERMUX "su" ENTER "getprop | grep dns"
+> 4. Reboot Now!
 <hr/>
 
 > [!NOTE]
-> This module most likely supports Android 7.0 (Nougat) and above.
-> - For Android 10+, Private DNS mode must be turned off for this manual configuration to work.
-> - Android 12+ may have additional restrictions regarding iptables, so further testing is needed.
+> - This module aims to optimize DNS and network connections on Android devices.
+> - Using root methods such as magisk, kernelsu, or apatch to get system access.
+> - This module most likely supports Android 7.0 (Nougat) and above.
+> - Adjust the configuration of TCP/IP, Wi-Fi, and DNS resolution to increase internet speed.
+> - Change IPTABLES rules to repay all DNS requests to the cloudflare server (1.1.1.1, 1.0.0.1 for IPv4 and 2606: 4700: 4700 :: 1111, 2606: 4700: 4700: :: 4700 :: 1001 for IPV6).
+> - Remove the cache system and dalvik-cache after the application of the configuration.
 <hr/>
 
 > [!WARNING]
-> I will not take responsibility if a problem occurs.     
-> Not all roms are profitable, so be careful.
+> - Only for devices with root access. This module will not run without root access and will come out with errors.
+> - Change Selinux settings to "permissive" (setenforce 0), which can reduce system security.
+> - Disables private DNS on Android 10 and above for compatibility, which may have an impact on certain security features.
+> - Changes in Iptables can cause conflict with firewalls or other security applications.
+> - Removing the cache system that can cause the application takes longer to load after rebooting.
 <hr/>
 
 > [!CAUTION]
-> If the module I created causes a bootlop, it is at your own risk    
-> I have tested it on several devices below.
+> If the module I make causes loop boots, that is your own risk. I will not be responsible if a problem occurs. Not all ROMs are profitable, so be careful.
 <hr/>
 
 > [!IMPORTANT]
-> This module changes the DNS configuration on Android using Cloudflare DNS (1.1.1.1 & 1.0.0.1) via Magisk. Make sure :
-> - The device is rooted
-> - The system supports iptables and IPv6 if you want full compatibility.
+> If the installation is complete and reboot
+Check your DNS with.
+> TERMUX : "Su" Enter "getprop | grep dns"
 <hr/>
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
