@@ -7,14 +7,16 @@
 
 > [!IMPORTANT]
 > Features 🚀:
-> 1. Optimal GPS Configuration. ✔️
->   - Set parameters in the `flp.conf`, `gps.conf`, and `gnss.conf` files to improve location data collection, geofence responsiveness, and GPS accuracy.
-> 2. SUPL & AGPS Settings. ✔️
->   - Default SUPL server configuration, XTRA support, and NTP synchronization to speed up location discovery.
-> 3. Wider Compatibility. ✔️
->   - The `gps.xml` and `system.prop` files provide additional options that can be customized to be more compatible with different devices and ROMs.
-> 4. Easy Customization. ✔️
->   - Each configuration file is accompanied by comments explaining the function of each parameter so that it can be adjusted according to the needs and characteristics of the device.
+> 1. Network Optimization ✔️
+>   - Set sysctl parameters for network optimization, including TCP settings (such as BBR, buffers, timeouts, etc.).
+>   - Rewrite `sysctl.conf` and `resolv.conf` configuration files with optimal settings.
+> 2. DNS Settings. ✔️
+>   - Automatically set DNS properties and add iptables rules to redirect DNS traffic.
+> 3. TX Power Increase. ✔️
+>   - Increases the transmission power (TX power) for the active network interface.
+> 4. Connectivity Maintenance. ✔️
+>   - Flush the DNS cache periodically to maintain connection stability.
+>   - Clear cache such as package cache, dalvik cache, and system cache to maintain device performance.
 <hr/>
 
 > [!TIP]
