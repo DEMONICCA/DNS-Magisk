@@ -11,6 +11,7 @@
 >   - Set sysctl parameters for network optimization, including TCP settings (such as BBR, buffers, timeouts, etc.).
 >   - Rewrite `sysctl.conf` and `resolv.conf` configuration files with optimal settings.
 > 2. DNS Settings. ✔️
+>   - Version `1.0.0` uses Cloudflare DNS `1.1.1.1` and `1.0.0.1`.
 >   - Automatically set DNS properties and add iptables rules to redirect DNS traffic.
 > 3. TX Power Increase. ✔️
 >   - Increases the transmission power (TX power) for the active network interface.
